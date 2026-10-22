@@ -8,7 +8,7 @@ In August 2026, I completed a month-long Data Analytics course, marking my first
 
 This project represents my first step toward developing practical skills in data analytics and business intelligence. It serves as a foundation for further learning and more advanced analytical work.
 
-During the summer break, I undertook this project to strengthen my practical skills and prepare for my upcoming university Advanced Business Analytics project in the first semester of 2027. My goal is to build on this foundation by developing stronger business questions, improving data quality assessment and preprocessing, applying statistical methods for data cleaning, refining data modeling and relationships, and creating more effective dashboards that communicate actionable business insights.
+During the summer break, I undertook this project to strengthen my practical skills and prepare for my upcoming university Advanced Business Analytics project in the first semester of 2027, where I will be developing stronger business questions, more advanced data quality assessment and preprocessing, applying statistical methods for data cleaning, refining data modeling and relationships, and creating more effective dashboards that communicate actionable business insights.
 
 ## Key Business Questions
 
