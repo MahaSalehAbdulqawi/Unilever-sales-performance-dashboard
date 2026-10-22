@@ -2,9 +2,13 @@
 
 ## Project Overview
 
-In August 2026, I completed a month-long Data Analytics course, marking my first in-depth learning experience in data analytics and business intelligence. As a practical outcome, I developed this dashboard using the skills I gained throughout the program. The project allowed me to apply the fundamentals of data analysis in a realistic business context, focusing on sales performance and product insights.
+## Overview
 
-During the summer break, I applied the fundamentals of data analytics through hands-on practice, including basic data cleaning, simple calculations, DAX measures, and data modeling using a Star Schema. This practical work helped me build confidence in analyzing data and deriving meaningful insights from business metrics.
+In August 2026, I completed a month-long Data Analytics course, marking my first in-depth learning experience in data analytics and business intelligence. As a practical outcome, I developed this dashboard to apply my newly acquired skills in data cleaning, DAX measures, and Star Schema data modeling, focusing on sales performance and product insights.
+
+This project represents my first step toward developing practical skills in data analytics and business intelligence. It serves as a foundation for further learning and more advanced analytical work.
+
+During the summer break, I undertook this project to strengthen my practical skills and prepare for my upcoming university Advanced Business Analytics project in the first semester of 2027. My goal is to build on this foundation by developing stronger business questions, improving data quality assessment and preprocessing, applying statistical methods for data cleaning, refining data modeling and relationships, and creating more effective dashboards that communicate actionable business insights.
 
 ## Key Business Questions
 
@@ -22,13 +26,6 @@ During the summer break, I applied the fundamentals of data analytics through ha
 - **Data Modeling:** Designing a Star Schema and establishing relationships between tables.
 - **Business Analysis:** Translating sales data into answers to key business questions.
 
-## Learning Journey & Future Goals
-
-This project represents my first step toward developing practical skills in data analytics and business intelligence. It serves as a foundation for further learning and more advanced analytical work.
-
-My next major milestone is a Business Intelligence project planned for the first semester of 2027. Building on this experience, I aim to develop a significantly more advanced project incorporating more complex business scenarios, deeper analysis, and stronger storytelling through data visualization.
-
-This project marks the beginning of my journey toward becoming a skilled data and business intelligence analyst.
 
 ## Project Files
 
